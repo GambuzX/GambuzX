@@ -1,11 +1,11 @@
          __
-    w  c(..)o   (   🔨 Working as a summer intern @BP2S
-     \__(-)    __)  📱  Developing a mobile game about slapping people
-         /\   (     🚩 Hacking at CTFs with CaptureTheFrancesinha
-        /(_)___)    🌸 Learning japanese
-        w /|        🎮 Playing FF7 Remake
-         | \        📖 Reading Necronomicon
-        m  m        📬 Always open to job offers
+    w  c(..)o   (     🔨 Working as a summer intern @BP2S
+     \__(-)    __)    📱  Developing a mobile game about slapping people
+         /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
+        /(_)___)      🌸 Learning japanese
+        w /|          🎮 Playing FF7 Remake
+         | \          📖 Reading Necronomicon
+        m  m          📬 Always open to job offers
 
 <!--
 **GambuzX/GambuzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

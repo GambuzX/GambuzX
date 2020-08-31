@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://mariogmesquita.com/"><img align="left" width="30px" src="https://github.com/GambuzX/GambuzX/raw/master/icons/home.png" alt="GambuzX's website" ></a>
+<a href="https://mariogmesquita.com/"><img align="left" width="30px" src="https://github.com/GambuzX/GambuzX/raw/master/icons/website.png" alt="GambuzX's website" ></a>
 
 <a href="https://www.linkedin.com/in/mariogilmesquita"><img align="left" width="30px" src="https://github.com/GambuzX/GambuzX/raw/master/icons/linkedin.png" alt="GambuzX's linkedIn" ></a>
 

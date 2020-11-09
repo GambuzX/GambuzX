@@ -1,10 +1,10 @@
-         __
-    w  c(..)o   (     🎓 Integrated Master's in Informatics and Computing Engineering @FEUP
-     \__(-)    __)    📱  Developing a mobile game about slapping people
+         __            
+    w  c(..)o   (     🔨 Graduate Developer @Mindera
+     \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
          /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
         /(_)___)      🌸 Learning japanese
        w /|           🎮 Playing Monster Hunter World: Iceborne
-        | \           📖 Reading Necronomicon
+        | \           📖 Reading 1Q84
        m  m           📬 Always open to job offers
 
 <!--

@@ -3,7 +3,7 @@
      \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
          /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
         /(_)___)      🌸 Learning japanese
-       w /|           🎮 Playing Monster Hunter World: Iceborne
+       w /|           🎮 Playing Cyberpunk 2077
         | \           📖 Reading 1Q84
        m  m           📬 Always open to job offers
 

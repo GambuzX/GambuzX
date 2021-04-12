@@ -3,8 +3,8 @@
      \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
          /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
         /(_)___)      🌸 Learning japanese
-       w /|           🎮 Playing Ghost of Tsushima
-        | \           📖 Reading 1Q84
+       w /|           🎮 Playing Monster Hunter Rise
+        | \           📖 Reading "One Flew Over the Cuckoo's Nest"
        m  m           📬 Always open to job offers
 
 <!--

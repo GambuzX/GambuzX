@@ -1,9 +1,9 @@
          __            
-    w  c(..)o   (     🔨 Graduate Developer @Mindera
+    w  c(..)o   (     🔨 Incoming SWE intern @Microsoft
      \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
          /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
         /(_)___)      🌸 Learning japanese
-       w /|           🎮 Playing Monster Hunter Rise
+       w /|           🎮 Playing Persona 5 Strikers
         | \           📖 Reading "One Flew Over the Cuckoo's Nest"
        m  m           📬 Always open to job offers
 

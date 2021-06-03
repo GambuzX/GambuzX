@@ -1,11 +1,11 @@
          __            
-    w  c(..)o   (     🔨 Incoming SWE intern @Microsoft
+    w  c(..)o   (     🔨 Software Engineer Intern @Microsoft
      \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
          /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
         /(_)___)      🌸 Learning japanese
        w /|           🎮 Playing Persona 5 Strikers
         | \           📖 Reading "One Flew Over the Cuckoo's Nest"
-       m  m           📬 Always open to job offers
+       m  m           📬 Always open to new opportunities
 
 <!--
 **GambuzX/GambuzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

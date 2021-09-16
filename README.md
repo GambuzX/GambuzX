@@ -1,6 +1,6 @@
          __            
-    w  c(..)o   (     🔨 Software Engineer Intern @Microsoft
-     \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
+    w  c(..)o   (     🔨 Working on personal stuff
+     \__(-)    __)    🎓 [Gap semester] Master's in Informatics and Computing Engineering @FEUP
          /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
         /(_)___)      🌸 Learning japanese
        w /|           🎮 Playing Persona 5 Strikers

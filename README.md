@@ -1,16 +1,19 @@
          __            
-    w  c(..)o   (     🔨 Working on personal stuff
-     \__(-)    __)    🎓 [Gap semester] Master's in Informatics and Computing Engineering @FEUP
-         /\   (       🚩 Hacking at CTFs with CaptureTheFrancesinha
+    w  c(..)o   (     ✨ Exploring the web3 space 
+     \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
+         /\   (       ✈️ Exchange semester in HKUST
         /(_)___)      🌸 Learning japanese
-       w /|           🎮 Playing Persona 5 Strikers
-        | \           📖 Reading "One Flew Over the Cuckoo's Nest"
+       w /|           🎮 Playing Pokemon Brilliant Diamond
+        | \           📖 Reading "The Story of China"
        m  m           📬 Always open to new opportunities
 
 <!--
 **GambuzX/GambuzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[Gap semester] Master's in Informatics and Computing Engineering @FEUP
+🚩 Hacking at CTFs with CaptureTheFrancesinha
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

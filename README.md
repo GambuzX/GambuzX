@@ -1,10 +1,10 @@
          __            
-    w  c(..)o   (     ✨ Exploring the web3 space 
+    w  c(..)o   (     ✨ Exploring web3
      \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
          /\   (       ✈️ Exchange semester in HKUST
         /(_)___)      🌸 Learning japanese
-       w /|           🎮 Playing Pokemon Brilliant Diamond
-        | \           📖 Reading "The Story of China"
+       w /|           🎮 Playing Elden Ring
+        | \           📖 Reading "The Story of China" by  Michael Wood
        m  m           📬 Always open to new opportunities
 
 <!--

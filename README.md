@@ -1,10 +1,10 @@
          __            
-    w  c(..)o   (     ✨ Exploring web3
-     \__(-)    __)    🎓 Master's in Informatics and Computing Engineering @FEUP
-         /\   (       ✈️ Exchange semester in HKUST
-        /(_)___)      🌸 Learning japanese
+    w  c(..)o   (     🎓 Master's in Informatics and Computing Engineering @FEUP
+     \__(-)    __)    ✨ Working on my Master's thesis @Anchorage
+         /\   (       ✈️ Traveling around 
+        /(_)___)      🌸 Learning japanese & french
        w /|           🎮 Playing Elden Ring
-        | \           📖 Reading "The Story of China" by  Michael Wood
+        | \           🎶 Want to get into music and photography soon
        m  m           📬 Always open to new opportunities
 
 <!--

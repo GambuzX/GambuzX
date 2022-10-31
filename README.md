@@ -2,10 +2,10 @@
     w  c(..)o   (     🎓 Master's in Informatics and Computing Engineering @FEUP
      \__(-)    __)    ✨ Working on my Master's thesis @Anchorage
          /\   (       ✈️ Traveling around 
-        /(_)___)      🌸 Learning japanese & french
-       w /|           🎮 Playing Elden Ring
-        | \           🎶 Want to get into music and photography soon
-       m  m           📬 Always open to new opportunities
+        /(_)___)      🥐 Learning french
+       w /|           🎮 Playing God of War Ragnarok
+        | \           📬 Always open to new opportunities
+       m  m           
 
 <!--
 **GambuzX/GambuzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

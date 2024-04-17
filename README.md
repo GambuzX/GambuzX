@@ -1,9 +1,9 @@
          __            
-    w  c(..)o   (     🎓 Master's in Informatics and Computing Engineering @FEUP
-     \__(-)    __)    ✨ Working on my Master's thesis @Anchorage
-         /\   (       ✈️ Traveling around 
-        /(_)___)      🥐 Learning french
-       w /|           🎮 Playing God of War Ragnarok
+    w  c(..)o   (     👨‍💻 Forward Deployed Engineer @Palantir
+     \__(-)    __)    🎓 Graduated from University of Porto and HKUST (Masters)
+         /\   (       ✈️ Traveling around as much as I can
+        /(_)___)      🥐 Learning french and japanese
+       w /|           🏀 Basketball, manga, games, shows take over my free time
         | \           📬 Always open to new opportunities
        m  m           
 
